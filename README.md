@@ -1,4 +1,5 @@
 # 3D Mesh Objects Segmentation
+![3D segmented mesh arch](https://user-images.githubusercontent.com/150384965/281849484-cd6b2c49-06da-459a-90d6-5d73adc22f81.png)
 
 ## Introduction
 
@@ -41,6 +42,7 @@ The trained model is tested on a specific 3D object loaded from a specified file
 ### Step 9: Save the Trained Model
 
 Finally, the trained model is saved to a specified file using `torch.save`.
+
 
 ## Additional Information
 
